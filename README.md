@@ -10,9 +10,18 @@
 
 ### SpaceGame
 OOP graphics games spotlighting objects for user ineraction that includes sound and animation.
+
 ![Spacegame Menu]()
+
 ![Spacegame Gameplay](https://github.com/kappter/programmingportfolioB2/blob/main/images/sg1.png?raw=true)
+
 ![Spacegame GameOver]()
+
 [SourceCode](https://github.com/kappter/programmingportfolioB2/blob/main/src/SpaceGame.zip)
 
+### Calculator
+OOP graphics based calculator with ... 
 
+![Calculator]()
+
+[SourceCode](https://github.com/kappter/programmingportfolioB2/blob/main/src/SpaceGame.zip)
